@@ -5055,6 +5055,12 @@
     },
     "Agent 循环" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حلقة الوكيل"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5191,6 +5197,12 @@
     },
     "Agent 预设" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعدادات الوكيل المسبقة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5327,6 +5339,12 @@
     },
     "App 版本" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إصدار التطبيق"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7374,6 +7392,12 @@
     },
     "微信交流群" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مجموعة WeChat"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7578,6 +7602,12 @@
     },
     "扫码加群" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "امسح الرمز للانضمام"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8769,6 +8799,12 @@
     },
     "保存并测试" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حفظ واختبار"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8871,6 +8907,12 @@
     },
     "删除 Key" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف المفتاح"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8905,6 +8947,12 @@
     },
     "在「API Key 管理」里创建一个 Key 并复制，回到这里粘贴到上面。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أنشئ مفتاحاً في «إدارة مفاتيح API» وانسخه، ثم عُد والصقه أعلاه."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9007,6 +9055,12 @@
     },
     "开通「豆包流式语音识别模型 2.0」。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فعّل «نموذج التعرّف الصوتي الانسيابي Doubao 2.0»."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9075,6 +9129,12 @@
     },
     "打开豆包语音控制台" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فتح لوحة تحكّم Doubao Voice"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9177,6 +9237,12 @@
     },
     "按住输入栏说话，松手把识别出的文字发出去。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اضغط مطولاً على حقل الإدخال وتحدّث، ثم أفلت لإرسال النص المتعرَّف عليه."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11169,6 +11235,12 @@
     },
     "测试连接" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختبار الاتصال"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11203,6 +11275,12 @@
     },
     "火山引擎" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volcano Engine"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11271,6 +11349,12 @@
     },
     "登录火山引擎的豆包语音控制台，没有账号先注册并完成实名认证。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سجّل الدخول إلى لوحة تحكّم Doubao Voice في Volcano Engine، وأنشئ حساباً وأكمل التحقّق من الهوية إن لم يكن لديك حساب."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11305,6 +11389,12 @@
     },
     "粘贴或输入 API Key" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصق مفتاح API أو أدخله"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12060,6 +12150,12 @@
     },
     "计费方式" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "طريقة الفوترة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12128,6 +12224,12 @@
     },
     "识别用的是豆包流式语音识别模型 2.0。计费方式要和你在控制台开通的一致，没特别选过就用「小时版」。录音直接发给火山引擎识别，App 不保存录音。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يُستخدم نموذج التعرّف الصوتي الانسيابي Doubao 2.0. يجب أن تطابق طريقة الفوترة ما فعّلته في لوحة التحكّم؛ وإن لم تختر تحديداً فاستخدم «نسخة الساعات». يُرسل التسجيل مباشرةً إلى Volcano Engine للتعرّف، ولا يحفظه التطبيق."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12196,6 +12298,12 @@
     },
     "试听" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استماع تجريبي"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12264,6 +12372,12 @@
     },
     "语音输入" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إدخال صوتي"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12366,6 +12480,12 @@
     },
     "还没有 API Key？" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ليس لديك مفتاح API؟"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12502,6 +12622,12 @@
     },
     "连接成功，可以按住说话了" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم الاتصال، يمكنك الضغط مطولاً والتحدث"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12638,6 +12764,12 @@
     },
     "Bot 功能的后台是开源项目 DS Bot（Apache-2.0），感谢 Fei2411 和社区贡献者。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خلفية ميزات البوت هي مشروع DS Bot مفتوح المصدر (Apache-2.0)، شكراً لـ Fei2411 والمساهمين في المجتمع."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12672,6 +12804,12 @@
     },
     "Bot 发给这些地址时不用你确认；发给其他人会先给你一张邮件卡片。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يرسل البوت إلى هذه العناوين دون تأكيد منك؛ أما غيرها فيعرض عليك بطاقة بريد أولاً."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12729,6 +12867,12 @@
     },
     "Bot 插件" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافات البوت"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13072,6 +13216,12 @@
     },
     "Cordis 插件" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافات Cordis"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13174,6 +13324,12 @@
     },
     "DS Bot 项目主页" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "صفحة مشروع DS Bot"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13350,6 +13506,12 @@
     },
     "DeepSeek 搜索" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بحث DeepSeek"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13384,6 +13546,12 @@
     },
     "DeepSeek 搜索 API" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "واجهة بحث DeepSeek"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13628,6 +13796,12 @@
     },
     "DeepSeek 账号" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حساب DeepSeek"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13662,6 +13836,12 @@
     },
     "DeepSeek 账号模型" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نموذج حساب DeepSeek"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14214,6 +14394,12 @@
     },
     "IMAP 服务器" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خادم IMAP"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14248,6 +14434,12 @@
     },
     "IMAP 用加密连接" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اتصال IMAP مشفّر"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14282,6 +14474,12 @@
     },
     "IMAP 端口（默认 993）" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "منفذ IMAP (الافتراضي 993)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14384,6 +14582,12 @@
     },
     "MCP 服务" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خدمات MCP"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14594,6 +14798,12 @@
     },
     "SMTP 服务器" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خادم SMTP"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14628,6 +14838,12 @@
     },
     "SMTP 用加密连接" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اتصال SMTP مشفّر"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14662,6 +14878,12 @@
     },
     "SMTP 端口（默认 465）" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "منفذ SMTP (الافتراضي 465)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14888,6 +15110,12 @@
     },
     "https://…" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://…"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15242,6 +15470,12 @@
     },
     "、" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "، "
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15452,6 +15686,12 @@
     },
     "一句话说明它做什么" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وصف من جملة واحدة لما تفعله"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18654,6 +18894,12 @@
     },
     "什么时候用、怎么做" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متى تُستخدم وكيف"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18756,6 +19002,12 @@
     },
     "仅可查看" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عرض فقط"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19538,6 +19790,12 @@
     },
     "代码工具" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدوات الشيفرة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20394,6 +20652,12 @@
     },
     "任务续跑" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استئناف المهام"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20904,6 +21168,12 @@
     },
     "作者" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المطوّر"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21142,6 +21412,12 @@
     },
     "你好，我会用这个声音为你朗读。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحباً، سأقرأ لك بهذا الصوت."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22162,6 +22438,12 @@
     },
     "值" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "القيمة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22230,6 +22512,12 @@
     },
     "值可以写 $DSH_SECRET_名字，引用保存的密钥。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يمكن كتابة $DSH_SECRET_الاسم في القيمة للإشارة إلى مفتاح محفوظ."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22264,6 +22552,12 @@
     },
     "偏好" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التفضيلات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22400,6 +22694,12 @@
     },
     "停止" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إيقاف"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24304,6 +24604,12 @@
     },
     "全部设置" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كل الإعدادات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24542,6 +24848,12 @@
     },
     "关于" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حول"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24576,6 +24888,12 @@
     },
     "关掉后，主屏幕和锁屏小组件只显示数量和状态。设备锁定时，标题总会被打码。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عند إيقافه تعرض ودجات الشاشة الرئيسية وشاشة القفل الأعداد والحالة فقط. وعند قفل الجهاز تُحجب العناوين دائماً."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24780,6 +25098,12 @@
     },
     "关闭" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إيقاف"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24950,6 +25274,12 @@
     },
     "关闭静音音频？" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إيقاف الصوت الصامت؟"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25120,6 +25450,12 @@
     },
     "其他模型服务" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خدمات نماذج أخرى"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25630,6 +25966,12 @@
     },
     "内置插件" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافات مدمجة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26685,6 +27027,12 @@
     },
     "分享 Fish Pocket" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مشاركة Fish Pocket"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27569,6 +27917,12 @@
     },
     "删除" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28521,6 +28875,12 @@
     },
     "刷新" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحديث"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28725,6 +29085,12 @@
     },
     "加入公测" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الانضمام إلى النسخة التجريبية"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29235,6 +29601,12 @@
     },
     "包含" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتضمّن"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30425,6 +30797,12 @@
     },
     "发信不用确认的 Bot" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البوتات التي ترسل دون تأكيد"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30937,6 +31315,12 @@
     },
     "取消" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إلغاء"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32128,6 +32512,12 @@
     },
     "可以直接发送的收件人" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مستلمون يمكن الإرسال إليهم مباشرة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32740,6 +33130,12 @@
     },
     "名字只能用小写字母、数字和连字符。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يُسمح في الاسم بأحرف صغيرة وأرقام وشرطات فقط."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32774,6 +33170,12 @@
     },
     "名字，比如 OPENAI_API_KEY" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاسم، مثل OPENAI_API_KEY"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32808,6 +33210,12 @@
     },
     "名字，比如 web-search" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاسم، مثل web-search"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32978,6 +33386,12 @@
     },
     "后台运行" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العمل في الخلفية"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33182,6 +33596,12 @@
     },
     "启用" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفعيل"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33386,6 +33806,12 @@
     },
     "启用完全权限？" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفعيل الأذونات الكاملة؟"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34202,6 +34628,12 @@
     },
     "团队工作区" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مساحة عمل الفريق"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34270,6 +34702,12 @@
     },
     "团队设置" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعدادات الفريق"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35501,6 +35939,12 @@
     },
     "在每个 Bot 的资料页里打开开关，它才会用上。左滑可以删除。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يُفعَّل من صفحة كل بوت ليستخدمها. اسحب لليسار للحذف."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36114,6 +36558,12 @@
     },
     "声音" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصوت"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36828,6 +37278,12 @@
     },
     "外观" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المظهر"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37412,6 +37868,12 @@
     },
     "好" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حسناً"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37514,6 +37976,12 @@
     },
     "子智能体" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وكيل فرعي"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37786,6 +38254,12 @@
     },
     "子智能体模型" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نموذج الوكيل الفرعي"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37888,6 +38362,12 @@
     },
     "存储" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التخزين"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38228,6 +38708,12 @@
     },
     "它留下的文件不会删除，但别的 Bot 之后可以在那个文件夹里工作、读到里面的内容。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لن تُحذف الملفات التي تركها، لكن البوتات الأخرى ستستطيع العمل في ذلك المجلد وقراءة محتواه لاحقاً."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38909,6 +39395,12 @@
     },
     "完全权限" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أذونات كاملة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39079,6 +39571,12 @@
     },
     "官网" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الموقع الرسمي"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39351,6 +39849,12 @@
     },
     "密钥" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المفاتيح"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39555,6 +40059,12 @@
     },
     "密钥的值只存在这台设备上，App 和模型都读不到原文。左滑可以删除。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تُحفظ قيم المفاتيح على هذا الجهاز فقط، ولا يقرأ التطبيق أو النموذج النص الأصلي. اسحب لليسار للحذف."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39657,6 +40167,12 @@
     },
     "对话" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المحادثة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40541,6 +41057,12 @@
     },
     "小组件" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الودجات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40949,6 +41471,12 @@
     },
     "工作区内修改" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تعديل داخل مساحة العمل"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42242,6 +42770,12 @@
     },
     "已删除的私有 Bot" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البوتات الخاصة المحذوفة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43546,6 +44080,12 @@
     },
     "已是最新版本" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لديك أحدث إصدار"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43818,6 +44358,12 @@
     },
     "已登录" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم تسجيل الدخول"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44770,6 +45316,12 @@
     },
     "已连接" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متصل"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45076,6 +45628,12 @@
     },
     "常见邮箱会自动识别，其他邮箱请手动填写。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تُكتشف خدمات البريد الشائعة تلقائياً، أما غيرها فأدخلها يدوياً."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45632,6 +46190,12 @@
     },
     "开源仓库" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المستودع مفتوح المصدر"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45861,6 +46425,12 @@
     },
     "引擎" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المحرّك"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -45895,6 +46465,12 @@
     },
     "引擎启动中" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جارٍ تشغيل المحرّك"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46065,6 +46641,12 @@
     },
     "引擎日志" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سجلات المحرّك"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46167,6 +46749,12 @@
     },
     "引擎版本" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إصدار المحرّك"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -46235,6 +46823,12 @@
     },
     "引擎运行中" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المحرّك يعمل"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48789,6 +49383,12 @@
     },
     "所有 Bot 可用" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متاح لكل البوتات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48823,6 +49423,12 @@
     },
     "所有 Bot 都能用" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متاح لكل البوتات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49027,6 +49633,12 @@
     },
     "手动填写服务器" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إدخال الخادم يدوياً"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49572,6 +50184,12 @@
     },
     "打开后，Bot 回复的步骤里会带上它的思考和用时。这两项和网页版共用。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عند تفعيله تعرض خطوات رد البوت تفكيره ووقته. ويُتشارك هذان الخياران مع إصدار الويب."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50616,6 +51234,12 @@
     },
     "技能" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المهارات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50650,6 +51274,12 @@
     },
     "技能内容" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "محتوى المهارة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -51846,6 +52476,12 @@
     },
     "授权码或应用专用密码" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رمز التفويض أو كلمة مرور التطبيق"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52846,6 +53482,12 @@
     },
     "插件" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإضافات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -54860,6 +55502,12 @@
     },
     "收件人地址" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنوان المستلم"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -56732,6 +57380,12 @@
     },
     "新 Bot 的默认模型" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النموذج الافتراضي للبوتات الجديدة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -56800,6 +57454,12 @@
     },
     "新会话将减少确认步骤，可以直接改文件、跑命令。仅在信任后续任务时使用。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ستقلّ خطوات التأكيد في المحادثات الجديدة، ويمكن تعديل الملفات وتشغيل الأوامر مباشرة. استخدمها فقط عندما تثق بالمهام التالية."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -56834,6 +57494,12 @@
     },
     "新功能" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الميزات الجديدة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -57339,6 +58005,12 @@
     },
     "新建能力" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قدرة جديدة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -57509,6 +58181,12 @@
     },
     "新的值（不改就留空）" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "القيمة الجديدة (اتركها فارغة لعدم التغيير)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -59268,6 +59946,12 @@
     },
     "显示会话标题" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إظهار عناوين المحادثات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -59404,6 +60088,12 @@
     },
     "显示思考过程" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إظهار عملية التفكير"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -59642,6 +60332,12 @@
     },
     "智能体与工具" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الوكيل والأدوات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -61881,6 +62577,12 @@
     },
     "有新版本" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتوفّر إصدار جديد"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -61983,6 +62685,12 @@
     },
     "服务地址" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنوان الخدمة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -62017,6 +62725,12 @@
     },
     "朗读" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "القراءة الصوتية"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -62051,6 +62765,12 @@
     },
     "朗读回复和 Agent 念出来的话都用 DeepSeek 的声音，同样用「模型」里的 DeepSeek API Key，费用由 DeepSeek 按字数收取。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تستخدم قراءة الردود وما ينطقه الوكيل صوت DeepSeek، بمفتاح DeepSeek API نفسه في «النموذج»، وتحتسب DeepSeek الرسوم حسب عدد الأحرف."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -62493,6 +63213,12 @@
     },
     "未登录" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم يتم تسجيل الدخول"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -62731,6 +63457,12 @@
     },
     "未设置" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غير مُعدّ"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -63241,6 +63973,12 @@
     },
     "权限" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأذونات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -65113,6 +65851,12 @@
     },
     "检查失败" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فشل التحقّق"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -65147,6 +65891,12 @@
     },
     "检查更新" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التحقّق من التحديثات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -65283,6 +66033,12 @@
     },
     "模型" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النموذج"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -69598,6 +70354,12 @@
     },
     "没有 Bot 可用" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غير متاح لأي بوت"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71128,6 +71890,12 @@
     },
     "浅色" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فاتح"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71298,6 +72066,12 @@
     },
     "海报、二维码或链接" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ملصق أو رمز QR أو رابط"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71434,6 +72208,12 @@
     },
     "深色" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "داكن"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71468,6 +72248,12 @@
     },
     "添加" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71638,6 +72424,12 @@
     },
     "添加密钥" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة مفتاح"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -72080,6 +72872,12 @@
     },
     "添加邮箱" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة بريد"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -73208,6 +74006,12 @@
     },
     "用你在「模型」里填写的 DeepSeek API Key，没有 Key 时用登录的 DeepSeek 账号（DeepSeek 目前还不支持账号登录使用语音），费用由 DeepSeek 按录音时长收取。松手后整段识别，说话时不显示文字。录音直接发给 DeepSeek 识别，App 不保存录音。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يُستخدم مفتاح DeepSeek API الذي أدخلته في «النموذج»، وعند غيابه يُستخدم حساب DeepSeek المسجّل (لا يدعم DeepSeek حالياً استخدام الصوت عبر تسجيل الدخول بالحساب)، وتحتسب DeepSeek الرسوم حسب مدة التسجيل. يتم التعرّف على المقطع كاملاً بعد الإفلات، ولا يظهر نص أثناء التحدث. يُرسل التسجيل مباشرةً إلى DeepSeek، ولا يحفظه التطبيق."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -73480,6 +74284,12 @@
     },
     "用途（可不填）" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الغرض (اختياري)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -73514,6 +74324,12 @@
     },
     "用邮箱的授权码或应用专用密码，不是登录密码。QQ、163、126、Gmail、iCloud 会自动填好服务器。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استخدم رمز تفويض البريد أو كلمة مرور خاصة بالتطبيق، لا كلمة مرور تسجيل الدخول. تُملأ خوادم QQ و163 و126 وGmail وiCloud تلقائياً."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -73548,6 +74364,12 @@
     },
     "用量" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاستخدام"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -75353,6 +76175,12 @@
     },
     "离开 App 后播放无声音频，任务、自动化和开发服务器都不停。会多耗一些电。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يشغّل صوتاً صامتاً بعد مغادرة التطبيق، فلا تتوقف المهام والأتمتة وخادم التطوير. يستهلك بطارية أكثر."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -75387,6 +76215,12 @@
     },
     "离开 App 后播放无声音频，任务、自动化和开发服务器都不停，会多耗一些电。音频被来电等打断时，进行中的任务仍会继续跑完。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يشغّل صوتاً صامتاً بعد مغادرة التطبيق، فلا تتوقف المهام والأتمتة وخادم التطوير، مع استهلاك أكبر للبطارية. وإذا انقطع الصوت بمكالمة مثلاً، تُكمل المهام الجارية عملها."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -75523,6 +76357,12 @@
     },
     "私有 Bot 删除后，它的文件夹、记忆和聊天记录仍然不让别的 Bot 碰。解除之后，文件夹可以再交给别的 Bot 用。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بعد حذف بوت خاص يبقى مجلده وذاكرته وسجل محادثاته محجوباً عن البوتات الأخرى. وبعد الفصل يمكن تسليم المجلد لبوت آخر."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -75761,6 +76601,12 @@
     },
     "移除" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إزالة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77547,6 +78393,12 @@
     },
     "类型" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النوع"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77717,6 +78569,12 @@
     },
     "系统" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النظام"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -78377,6 +79235,12 @@
     },
     "组合" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المجموعات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -78445,6 +79309,12 @@
     },
     "终端" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الطرفية"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -78921,6 +79791,12 @@
     },
     "给 Bot 打开一个组合，就同时打开里面的每一项。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفعيل مجموعة لبوت يفعّل كل عناصرها معاً."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79023,6 +79899,12 @@
     },
     "给个评分" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قيّم التطبيق"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79771,6 +80653,12 @@
     },
     "网页工具" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدوات الويب"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79873,6 +80761,12 @@
     },
     "网页版" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إصدار الويب"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79907,6 +80801,12 @@
     },
     "网页版用于只有网页界面的插件，设置与这里共用同一份配置。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إصدار الويب مخصّص للإضافات ذات الواجهة الويب فقط، ويتشارك الإعدادات نفسها مع هنا."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80927,6 +81827,12 @@
     },
     "聊天软件" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تطبيقات المحادثة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -81063,6 +81969,12 @@
     },
     "能力" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "القدرات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -81165,6 +82077,12 @@
     },
     "自动化" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأتمتة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -81403,6 +82321,12 @@
     },
     "自动审查" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مراجعة تلقائية"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -82593,6 +83517,12 @@
     },
     "觉得好用的话，去 App Store 给个评分 ⭐️，这是对项目最大的支持。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إذا وجدته مفيداً، قيّمه على App Store ⭐️ — هذا أكبر دعم للمشروع."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -82696,6 +83626,12 @@
     },
     "解除" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فصل"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -83807,6 +84743,12 @@
     },
     "设置" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإعدادات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -84215,6 +85157,12 @@
     },
     "识别服务" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خدمة التعرّف"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -84589,6 +85537,12 @@
     },
     "语言" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اللغة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -84793,6 +85747,12 @@
     },
     "说话时文字就会出现。需要你自己开通火山引擎的豆包语音并填写 API Key，费用由火山引擎按你的用量收取。API Key 只保存在这台设备本地，只用来连接火山引擎，不会上传到其他任何地方。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يظهر النص أثناء التحدث. يلزمك تفعيل Doubao Voice من Volcano Engine وإدخال مفتاح API، وتحتسب Volcano Engine الرسوم حسب استخدامك. يُحفظ مفتاح API على هذا الجهاز فقط، ويُستخدم للاتصال بـ Volcano Engine وحده، ولا يُرفع إلى أي مكان آخر."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -85711,6 +86671,12 @@
     },
     "请求头，一行一个「名字: 值」" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ترويسات الطلب، كل سطر «الاسم: القيمة»"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -87343,6 +88309,12 @@
     },
     "谁能用" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "من يستطيع استخدامه"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -87513,6 +88485,12 @@
     },
     "账号" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الحساب"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -87819,6 +88797,12 @@
     },
     "跟随 DSH" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حسب DSH"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -87921,6 +88905,12 @@
     },
     "跟随系统" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حسب النظام"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -88431,6 +89421,12 @@
     },
     "输入框" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حقل الإدخال"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -89213,6 +90209,12 @@
     },
     "还没有保存密钥。Bot 需要时会在聊天里请你填写。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا مفاتيح محفوظة بعد. سيطلب منك البوت إدخالها في المحادثة عند الحاجة."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -89621,6 +90623,12 @@
     },
     "还没有能力。能力可以是一个 MCP 服务、一段技能说明，或者把几个打包在一起。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا توجد قدرات بعد. قد تكون القدرة خدمة MCP أو وصف مهارة أو حزمة من عدة عناصر معاً."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91559,6 +92567,12 @@
     },
     "这些设置和网页版、桌面版共用同一份配置。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تتشارك هذه الإعدادات نفس ملف الإعدادات مع إصدارَي الويب وسطح المكتب."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92341,6 +93355,12 @@
     },
     "进行中的任务会继续跑完（系统显示进度，可随时停止）" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ستُكمل المهام الجارية حتى النهاية (يعرض النظام التقدّم، ويمكنك الإيقاف في أي وقت)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92375,6 +93395,12 @@
     },
     "进行中的任务最多再跑约 30 秒" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ستستمر المهام الجارية نحو 30 ثانية إضافية كحد أقصى"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92715,6 +93741,12 @@
     },
     "连接器" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الموصّلات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92749,6 +93781,12 @@
     },
     "连接器、能力和密钥整个团队共用，每个 Bot 能用哪些在它自己的资料页里开关。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتشارك الفريق كله الموصّلات والقدرات والمفاتيح، ويُفعَّل لكل بوت ما يستخدمه من صفحته الخاصة."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -93078,6 +94116,12 @@
     },
     "连接状态" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حالة الاتصال"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -93180,6 +94224,12 @@
     },
     "退出 Fish Pocket 再重新打开，界面就会换成新的语言。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أغلق Fish Pocket وأعد فتحه لتظهر الواجهة باللغة الجديدة."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -94042,6 +95092,12 @@
     },
     "通用" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عام"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -94178,6 +95234,12 @@
     },
     "邮箱" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البريد الإلكتروني"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -94212,6 +95274,12 @@
     },
     "邮箱地址" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنوان البريد"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -94382,6 +95450,12 @@
     },
     "配置文件" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ملف الإعدادات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -94552,6 +95626,12 @@
     },
     "重启 App 后生效" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يسري بعد إعادة تشغيل التطبيق"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95096,6 +96176,12 @@
     },
     "重新连接中" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جارٍ إعادة الاتصال"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95777,6 +96863,12 @@
     },
     "问题反馈" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإبلاغ عن مشكلة"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95879,6 +96971,12 @@
     },
     "问题诊断" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تشخيص المشكلات"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -96525,6 +97623,12 @@
     },
     "需要在电脑上运行，iOS 上用不了" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتطلّب التشغيل على كمبيوتر، ولا يعمل على iOS"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -96695,6 +97799,12 @@
     },
     "静音音频" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصوت الصامت"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -97269,6 +98379,12 @@
     },
     "高级" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متقدّم"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -97473,6 +98589,12 @@
     },
     "默认模型" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النموذج الافتراضي"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -97507,6 +98629,12 @@
     },
     "默认访问模式" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وضع الوصول الافتراضي"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -97779,6 +98907,12 @@
     },
     "（日志为空）" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(السجل فارغ)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -107030,6 +108164,12 @@
     },
     "Fish Pocket 账号" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حساب Fish Pocket"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -107132,6 +108272,12 @@
     },
     "几种方式相互独立，配置任意一种就能开始对话。" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كل طريقة مستقلة عن الأخرى؛ يكفي إعداد واحدة لبدء المحادثة."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -108396,6 +109542,12 @@
     },
     "连接方式" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "طريقة الاتصال"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

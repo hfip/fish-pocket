@@ -5,6 +5,12 @@
       "comment" : "Privacy - Calendars Full Access Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتيح للوكيل الاطّلاع على جدولك وترتيبه عندما تطلب ذلك. وللإجابة عن أسئلتك تُرسل الأحداث المعنية مع المحادثة إلى مزوّد النموذج الذي اخترته."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47,6 +53,12 @@
       "comment" : "Privacy - Reminders Full Access Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتيح للوكيل الاطّلاع على تذكيراتك وإنشائها عندما تطلب ذلك. وللإجابة عن أسئلتك تُرسل التذكيرات المعنية مع المحادثة إلى مزوّد النموذج الذي اخترته."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -89,6 +101,12 @@
       "comment" : "Privacy - Camera Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تُرسل الصور التي تلتقطها إلى الوكيل كمرفقات، وتُستخدم الكاميرا لمسح رمز QR لتسجيل الدخول على حاسوبك."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -131,6 +149,12 @@
       "comment" : "Privacy - Location When In Use Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتيح للوكيل قراءة موقعك مرة واحدة عندما تسأل «أين أنا» أو «ما القريب مني». تُقرأ عند الاستخدام فقط ولا تُسجَّل باستمرار. وللإجابة عن أسئلتك يُرسل الموقع مع المحادثة إلى مزوّد النموذج الذي اخترته."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -173,6 +197,12 @@
       "comment" : "Privacy - Health Share Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتيح للوكيل قراءة بياناتك الصحية عند سؤالك عنها، مثل الخطوات والنوم ونبض القلب. وللإجابة عن أسئلتك تُرسل القيم المقروءة مع المحادثة إلى مزوّد النموذج الذي اخترته. ولا يكتب التطبيق أو يعدّل أي بيانات صحية."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -215,6 +245,12 @@
       "comment" : "Privacy - Health Update Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا يكتب هذا الإصدار أو يعدّل أي بيانات في «الصحة»."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -257,6 +293,12 @@
       "comment" : "Privacy - Microphone Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يسجّل أثناء ضغطك على حقل الإدخال للتحدث لتحويل كلامك إلى نص. يُرسل التسجيل مباشرةً إلى خدمة التعرّف من Volcano Engine التي أعددتها في «إدخال صوتي»، ولا يحتفظ به التطبيق؛ وبعد الإفلات يُرسل النص المتعرَّف عليه مع المحادثة إلى مزوّد النموذج الذي اخترته."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -299,6 +341,12 @@
       "comment" : "Privacy - Speech Recognition Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتيح للوكيل سماع ما في ملف تسجيل عندما تطلب ذلك. يتم التعرّف على الجهاز افتراضياً ولا يغادر التسجيل الهاتف؛ ولا يُرسل إلى خوادم Apple إلا عند طلب التعرّف السحابي صراحةً. وللإجابة عن أسئلتك يُرسل النص المكتوب مع المحادثة إلى مزوّد النموذج الذي اخترته. هذه القدرة لا تسجّل ولا تستخدم الميكروفون."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -341,6 +389,12 @@
       "comment" : "Privacy - HomeKit Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتيح للوكيل الاطّلاع على ملحقات منزلك وحالتها عند طلبك، وتغييرها أو تشغيل المشاهد بالطريقة التي ضبطتها في «قدرات الجهاز». وللإجابة عن أسئلتك تُرسل أسماء الملحقات وحالاتها مع المحادثة إلى مزوّد النموذج الذي اخترته."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -383,6 +437,12 @@
       "comment" : "Privacy - Photo Library Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتيح للوكيل رؤية ما في مكتبة صورك عند سؤالك، وتصدير الصور للتعرّف على الجهاز، وتنظيم المكتبة بالطريقة التي ضبطتها في «قدرات الجهاز». وللإجابة عن أسئلتك تُرسل المعلومات المعنية مع المحادثة إلى مزوّد النموذج الذي اخترته. ويسألك iOS مجدداً قبل حذف أي صورة."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -425,6 +485,12 @@
       "comment" : "Privacy - AlarmKit Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتيح للوكيل ضبط منبّه حقيقي عندما تطلب ذلك. يرنّ المنبّه رغم الوضع الصامت ووضع التركيز، ويستمر حتى توقفه."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -467,6 +533,12 @@
       "comment" : "Privacy - Contacts Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتيح للوكيل البحث عن جهة اتصال بالاسم أو الهاتف أو البريد عند طلبك، مثل معرفة عنوان شخص قبل كتابة رسالة له. وللإجابة عن أسئلتك تُرسل بيانات جهة الاتصال التي يجدها مع المحادثة إلى مزوّد النموذج الذي اخترته. ولا يضيف التطبيق جهة اتصال أو يعدّلها أو يحذفها."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -509,6 +581,12 @@
       "comment" : "Privacy - Media Library Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتيح للوكيل البحث عن الأغاني وقوائم التشغيل في مكتبتك الموسيقية والتحكّم في التشغيل عند طلبك. وللإجابة عن أسئلتك تُرسل أسماء الأغاني وقوائم التشغيل مع المحادثة إلى مزوّد النموذج الذي اخترته."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -551,6 +629,12 @@
       "comment" : "Privacy - Photo Library Additions Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يحفظ ملصقات المشاركة ورمز QR لمجموعة المجتمع في مكتبة الصور."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

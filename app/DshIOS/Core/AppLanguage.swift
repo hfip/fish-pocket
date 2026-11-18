@@ -19,7 +19,7 @@ enum AppLanguage {
     /// The languages the settings picker offers: the bundle's localizations, each named in itself.
     static let choices: [(code: String, name: String)] = [
         ("zh-Hans", "简体中文"), ("zh-Hant", "繁體中文"), ("en", "English"), ("es", "Español"), ("ja", "日本語"),
-        ("ko", "한국어"),
+        ("ko", "한국어"), ("ar", "العربية"),
     ]
 
     /// The language chosen for this app, `nil` when it follows the system. It is the same
